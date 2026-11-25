@@ -1,0 +1,1 @@
+ALTER TABLE `migrations` DROP COLUMN `closed_at`;

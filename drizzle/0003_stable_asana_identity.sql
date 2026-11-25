@@ -1,0 +1,1 @@
+ALTER TABLE `connections` ADD `asana_user_gid` text;

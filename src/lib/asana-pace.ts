@@ -1,0 +1,2 @@
+export const DEFAULT_REQUESTS_PER_MINUTE = 140;
+export const PAID_REQUESTS_PER_MINUTE = 1_400;
